@@ -2,3 +2,5 @@
 *~
 .*.sw?
 TODO
+
+.hugo_build.lock
